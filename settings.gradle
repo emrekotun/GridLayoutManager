@@ -1,0 +1,3 @@
+include ':gridlayoutmanager'
+include ':app'
+rootProject.name = "GridLayoutManager"
