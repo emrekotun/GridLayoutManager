@@ -1,5 +1,5 @@
 # GridLayoutManager
-<b> DYNAMIC TABLET GRIDLAYOUTMANAGER</b>
+<b> DYNAMIC GRIDLAYOUTMANAGER FOR TABLET</b>
 <br/><br/><br/>
 Easily make two or more columns of recyclerview layout.
 ```ruby
@@ -22,5 +22,5 @@ implementation 'com.github.emrekotun:GridLayoutManager:1.0'
 <br/>
 ```ruby
  recyclerView.layoutManager = tabletGridLayout(this,2) 
- recyclerView.rvAuthsApps.adapter = adapter
+ recyclerView.adapter = adapter
  ```
